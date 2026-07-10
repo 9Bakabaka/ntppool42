@@ -10,7 +10,7 @@ const ZONE_SOA = {
   type: 'SOA',
   ttl: 86400,
   data: {
-    mname: 'ntppool42.vm.mazarino.sess.dn42',
+    mname: 'as197817.ntp.dn42',
     rname: 'noc.sess.dn42',
     serial: 0,
     refresh: 120,

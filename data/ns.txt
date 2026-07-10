@@ -1,1 +1,1 @@
-ntppool42.vm.mazarino.sess.dn42,SESS-MNT
+as197817.ntp.dn42,SESS-MNT

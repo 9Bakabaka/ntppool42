@@ -1,3 +1,4 @@
+fd7b:67:200c::3,YZYMC-MNT
 fd36:62be:ef51:1::1,COWGL-MNT
 fd36:62be:ef51:31ad::1,COWGL-MNT
 fd36:62be:ef51::1,COWGL-MNT

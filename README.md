@@ -53,7 +53,7 @@ The project configuration, source code, and monitoring scripts are currently man
 
 * **Repository:** [github.com:SessionHu/ntppool42](https://github.com/SessionHu/ntppool42)
 
-If you wish to add, update, or remove your server from the pool, please submit a Pull Request or open an Issue in the repository.
+If you wish to add, update, or remove your server from the pool, please open a Pull Request in the repository. Remember to run `tools/fmt-all.sh` to check and format your modification.
 
 This project is still in the early stage and most things are working in progress. Welcome to contact us in dn42 Telegram or Matrix group.
 
